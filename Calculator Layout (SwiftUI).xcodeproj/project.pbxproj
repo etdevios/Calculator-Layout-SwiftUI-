@@ -19,6 +19,7 @@
 		F68A8CE52986EEFC0079A3F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F68A8CE72986EF020079A3F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F68A8CEA2986EF020079A3F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F68A8CF129891D2C0079A3F5 /* Calculator-Layout--SwiftUI--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Calculator-Layout--SwiftUI--Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		F68A8CE22986EEFC0079A3F5 /* Calculator Layout (SwiftUI) */ = {
 			isa = PBXGroup;
 			children = (
+				F68A8CF129891D2C0079A3F5 /* Calculator-Layout--SwiftUI--Info.plist */,
 				F68A8CE32986EEFC0079A3F5 /* Calculator_Layout__SwiftUI_App.swift */,
 				F68A8CE52986EEFC0079A3F5 /* ContentView.swift */,
 				F68A8CE72986EF020079A3F5 /* Assets.xcassets */,
@@ -270,7 +272,7 @@
 				DEVELOPMENT_TEAM = 2W63BAHUHF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = "Calculator-Layout--SwiftUI--Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -299,7 +301,7 @@
 				DEVELOPMENT_TEAM = 2W63BAHUHF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = "Calculator-Layout--SwiftUI--Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
